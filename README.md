@@ -5,7 +5,7 @@
 基於Arduino的心電圖量測
 
 GitHub網址:
-https://github.com/jack-zheng113/-/blob/main/Final_Project
+https://github.com/jack-zheng113/-
 
 影片網址 (youtube) :
 https://youtu.be/J5bKD1aLFYw 
